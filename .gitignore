@@ -29,3 +29,12 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
+
+#Subdirs
+ProjectBlueSky/[Ll]ibrary/
+ProjectBlueSky/[Tt]emp/
+ProjectBlueSky/[Oo]bj/
+ProjectBlueSky/[Bb]uild/
+ProjectBlueSky/[Bb]uilds/
+ProjectBlueSky/Assets/AssetStoreTools*
+
