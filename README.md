@@ -5,10 +5,10 @@ https://github.com/raywenderlich/c-sharp-style-guide
 
 * We will be using a public Trello Board, please ensure that it follows the Game Dev Club Code of Conduct found in the file code of conduct in this repository. It is a subset of the code of conduct that can be found at http://todogroup.org/opencodeofconduct/
 
-Initial Dependencies:
+# Initial Dependencies:
    * Unity Engine 2017.1.1f1
 
-How to contribute:
+# How to contribute:
 
    * To submit a pull request make your changes, do a git rebase -i to do interactive rebase and squash your commits.
 
@@ -16,7 +16,7 @@ How to contribute:
 
    * Make sure that your commits actually describe what it is you have done.
 
-Project Management:
+# Project Management:
 
    * We will be using Discord as our primary form of communication, and a Trello board as our form of project management. 
       * https://discord.gg/RzFNd4Z
