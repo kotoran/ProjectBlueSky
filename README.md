@@ -1,3 +1,5 @@
+# Project Blue Sky
+
 The goal of ProjectBlueSky is to see what kind of game can be created with Unity Engine, a blank template, pull requests on Github. Content that is merged will be curated. This project is for members of San Jose State Game Development Club and outside individuals in other communities who may be interested in contributing to an open source project that offers substantial creative freedom to developers. We are launching this experiment as a part of Hacktoberfest. https://sjsugamedev.com/
 
 * We will be doing our best to abide this style guide:
