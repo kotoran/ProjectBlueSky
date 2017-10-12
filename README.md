@@ -1,7 +1,7 @@
 The goal of ProjectBlueSky is to see what kind of game can be created with Unity Engine, a blank template, pull requests on Github. Content that is merged will be curated. This project is for members of San Jose State Game Development Club and outside individuals in other communities who may be interested in contributing to an open source project that offers substantial creative freedom to developers. We are launching this experiment as a part of Hacktoberfest. https://sjsugamedev.com/
 
-* We will be doing our best to abide this style guide:
-https://github.com/raywenderlich/c-sharp-style-guide
+* We will be doing our best to abide [this style guide](
+https://github.com/raywenderlich/c-sharp-style-guide)
 
 * We will be using a public Trello Board, please ensure that it follows the Game Dev Club Code of Conduct found in the file code of conduct in this repository. It is a subset of the code of conduct that can be found at http://todogroup.org/opencodeofconduct/
 
